@@ -64,3 +64,16 @@ E.g. If you put the following grades 3, 4, 5 the result should be:
 Sum:12
 
 Average: 4
+
+Challenge
+We discussed previously a couple of examples (Algorithms & Data Structures)
+
+Go back to the material and try to program in JavaScript: 
+
+- ATM machine (if you had more time. try to create a nice layout)
+
+Advanced
+Time Convert
+Create a JavaScript function that will return the number of minutes, in hours and minutes. The function should accept only one argument.
+
+E.g. If we call the function and pass the number of minutes 200 we should get the message "200 minutes = 3 hour(s) and 20 minute(s)."

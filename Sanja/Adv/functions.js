@@ -25,3 +25,13 @@ function calcTime(totalSeconds) {
     return result;
 }
 calcTime(51561651);
+
+// Input num_sec
+
+// min = num_sec / 60;
+// hours = num_sec / (60 * 60);
+// days = num_sec / (60 * 60 * 24);
+// weeks = num_sec / (60 * 60 * 24 * 7);
+// rest = sec;
+
+// OUTPUT  weeks:days:hours:minutes:seconds
